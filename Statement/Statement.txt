@@ -1,0 +1,45 @@
+Statement of Purpose
+
+Project: Hotel Management System
+
+1. Introduction
+
+The hospitality industry relies heavily on efficient organization and timely service. For small to medium-sized establishments, managing room inventory accurately is crucial for maximizing revenue and ensuring guest satisfaction. This project, the Hotel Management System, serves as a foundational software solution to digitize these operations.
+
+2. The Problem
+
+Traditional methods of hotel management, such as physical logbooks or spreadsheets, suffer from several significant drawbacks:
+
+Human Error: Manual entries are prone to mistakes, leading to double-bookings or lost reservations.
+
+Slow Retrieval: Searching for available rooms in a physical ledger is time-consuming.
+
+Lack of Updates: Physical records do not provide a real-time "at-a-glance" view of the hotel's status.
+
+Data Integrity: Paper records can be easily damaged, lost, or altered.
+
+3. Proposed Solution
+
+The proposed solution is a Python-based application that acts as a centralized interface for room management. By leveraging computer logic, the system ensures that:
+
+A room cannot be booked if it is already occupied.
+
+A room cannot be checked out if it is already empty.
+
+User input is validated to prevent system crashes.
+
+4. Objectives
+
+The primary objectives of this project are:
+
+To Automate Operations: Reduce the manual effort required to track room status.
+
+To Ensure Accuracy: Eliminate the possibility of double-booking rooms through conditional logic.
+
+To Improve Efficiency: drastic reduction in the time taken to check a guest in or out.
+
+To Demonstrate Logic: To showcase the practical application of Python programming concepts such as dictionaries, functions, loops, and exception handling in a real-world scenario.
+
+5. Conclusion
+
+This project aims to provide a simple yet robust architecture for hotel management. It lays the groundwork for more complex systems and serves as a proof of concept that digital transformation can be accessible and effective, even for smaller establishments.
